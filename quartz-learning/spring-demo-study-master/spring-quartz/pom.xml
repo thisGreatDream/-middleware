@@ -11,7 +11,7 @@
 
     <artifactId>spring-quartz</artifactId>
     <properties>
-        <springframework.version>5.1.4.RELEASE</springframework.version>
+        <springframework.version>5.3.19</springframework.version>
         <quartz.version>2.2.1</quartz.version>
     </properties>
 
